@@ -58,4 +58,5 @@ Live chart, CRC-protected binary frames, threshold alarms, FFT and export to Exc
 
 ### Contact
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehmetcandusgun-0A66C2)](https://www.linkedin.com/in/mehmetcandusgun/)
 [![Email](https://img.shields.io/badge/Email-mhmtcndsgn%40outlook.com-137f8b)](mailto:mhmtcndsgn@outlook.com)
