@@ -16,7 +16,7 @@ My main interests are embedded systems, sensor signal processing and medical / w
 Live chart, CRC-protected binary frames, threshold alarms, FFT and export to Excel / CSV. Windows and macOS builds.
 
 [![Latest release](https://img.shields.io/github/v/release/mhmtcndsgn/Oskilo?label=release&color=137f8b)](https://github.com/mhmtcndsgn/Oskilo/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/mhmtcndsgn/Oskilo/total?color=1f3d72)](https://github.com/mhmtcndsgn/Oskilo/releases)
+[![Download](https://img.shields.io/badge/download-Windows%20%7C%20macOS-1f3d72)](https://github.com/mhmtcndsgn/Oskilo/releases/latest)
 
 <br clear="left">
 
@@ -58,4 +58,4 @@ Live chart, CRC-protected binary frames, threshold alarms, FFT and export to Exc
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/mhmtcndsgn%40outlook.com-137f8b?logo=microsoftoutlook&logoColor=white)](mailto:mhmtcndsgn@outlook.com)
+[![Email](https://img.shields.io/badge/Email-mhmtcndsgn%40outlook.com-137f8b)](mailto:mhmtcndsgn@outlook.com)
